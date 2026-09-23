@@ -3,3 +3,10 @@
 Scripts/.env
 __pycache__/
 *.pyc
+
+# Environments
+.env
+.env.*
+
+# Python (필요시 추가)
+__pycache__/
